@@ -1,7 +1,7 @@
 {
     "name": "Unzipper Bot",
     "description": "A Telegram bot to extract various types of archives",
-    "logo": "https://telegra.ph/file/d4ba24682e030fc58613f.jpg",
+    "logo": "https://telegra.ph//file/af6ce3f16d15ff3c2842a.jpg",
     "keywords": [
         "7z",
         "zip",
@@ -9,9 +9,9 @@
         "Telegram Bot",
         "unzipper bot"
     ],
-    "website": "https://edm115.dev/unzip",
-    "repository": "https://github.com/EDM115/unzip-bot",
-    "success_url": "https://t.me/EDM115bots",
+    "website": "https://noobscript.fun",
+    "repository": "https://github.com/Mrlabani/Unziper",
+    "success_url": "https://t.me/x_04i",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
